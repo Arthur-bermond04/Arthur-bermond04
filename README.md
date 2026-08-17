@@ -12,7 +12,6 @@
 
 - 💼 Desenvolvedor de Software, atuando na manutenção e evolução de sistemas ERP
 - 🔧 Trabalho com correção de bugs, criação de rotinas, otimização de consultas e análise de requisitos
-- ✈️ Antes disso, atuei em operações aeroportuárias na **GOL Linhas Aéreas**, onde desenvolvi comunicação e organização sob pressão
 - 🌱 Sempre evoluindo em boas práticas de programação, testes ágeis e análise de requisitos
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/arthur-bermond-10b3942a9/)
 
