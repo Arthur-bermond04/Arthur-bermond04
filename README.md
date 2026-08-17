@@ -10,7 +10,6 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de **Tecnologia da Informação** na Universidade Vila Velha (UVV), conclusão prevista em 2027
 - 💼 Desenvolvedor de Software, atuando na manutenção e evolução de sistemas ERP
 - 🔧 Trabalho com correção de bugs, criação de rotinas, otimização de consultas e análise de requisitos
 - ✈️ Antes disso, atuei em operações aeroportuárias na **GOL Linhas Aéreas**, onde desenvolvi comunicação e organização sob pressão
