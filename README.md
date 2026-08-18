@@ -35,7 +35,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Arthur-bermond04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Arthur-bermond04&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
