@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Arthur 👋</h1>
 
-<h3 align="center">Desenvolvedor Delphi & SQL | Manutenção e evolução de ERP</h3>
+<h3 align="center">Desenvolvedor | Manutenção e evolução de ERP</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Desenvolvedor;Sistemas+ERP;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
