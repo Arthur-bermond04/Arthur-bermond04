@@ -36,8 +36,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Arthur-bermond04&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=Arthur-bermond04&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
